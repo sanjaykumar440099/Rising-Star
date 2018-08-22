@@ -1,0 +1,7 @@
+.bg-dark {
+    background-color: transparent !important;
+}
+
+.bg-dark:hover {
+    background-color:  darkslategray !important;
+}
